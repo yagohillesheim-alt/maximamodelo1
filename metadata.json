@@ -1,0 +1,8 @@
+{
+  "name": "Máxima Ambiental",
+  "description": "Gestão e Destinação de Resíduos Classe I e II com conformidade legal e rastreabilidade total.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
